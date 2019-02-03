@@ -2,4 +2,6 @@
 /.vs/
 LinnworksTest/bin/**
 LinnworksTest/obj/**
+LinnworksUnitTests/bin/**
+LinnworksUnitTests/obj/**
 

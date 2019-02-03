@@ -1,9 +1,8 @@
 import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
-import { FormsModule, ReactiveFormsModule } from '@angular/forms';
-import { HttpClientModule } from '@angular/common/http';
-import { RouterModule } from '@angular/router';
-
+import { FormsModule, ReactiveFormsModule, FormGroup } from '@angular/forms';
+import { HttpClientModule, HttpClient } from '@angular/common/http';
+import { RouterModule } from '@angular/router'; 
 import { AppComponent } from './app.component';
 import { NavMenuComponent } from './nav-menu/nav-menu.component';
 import { HomeComponent } from './home/home.component';
@@ -25,11 +24,13 @@ import { AddCategoryComponent } from './add-category/add-category.component';
     ApiComponent,
     LoginComponent,
     LogoutComponent,
+   
   ],
   imports: [
     BrowserModule.withServerTransition({ appId: 'ng-cli-universal' }),
     HttpClientModule,
     FormsModule,
+    FormGroup,
     ReactiveFormsModule,
     RouterModule.forRoot([
       { path: 'login', component: LoginComponent },
@@ -42,7 +43,7 @@ import { AddCategoryComponent } from './add-category/add-category.component';
       { path: '**', redirectTo: 'home' }
     ])
   ],
-  providers: [CookieService],
+  providers: [CookieService, HttpClientModule, HttpClient],
   bootstrap: [AppComponent]
 })
 export class AppModule { }
