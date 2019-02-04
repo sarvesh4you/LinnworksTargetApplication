@@ -44,3 +44,4 @@ C:\Users\User\Desktop\AUT\LinnworksTargetApplication\LinnworksTest\obj\Debug\net
 C:\Users\User\Desktop\AUT\LinnworksTargetApplication\LinnworksTest\obj\Debug\netcoreapp2.1\LinnworksTest.dll
 C:\Users\User\Desktop\AUT\LinnworksTargetApplication\LinnworksTest\obj\Debug\netcoreapp2.1\LinnworksTest.pdb
 C:\Users\User\Desktop\AUT\LinnworksTargetApplication\LinnworksTest\obj\Debug\netcoreapp2.1\LinnworksTest.csproj.CopyComplete
+C:\Users\User\Desktop\AUT\LinnworksTargetApplication\LinnworksTest\obj\Debug\netcoreapp2.1\LinnworksTest.csprojAssemblyReference.cache
