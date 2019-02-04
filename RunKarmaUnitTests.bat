@@ -1,2 +1,2 @@
-CD /d "%~dp0\LinnworksTest\ClientApp"
-START ng test
+CD /d "%CD%\LinnworksTest\ClientApp"
+START karma start
