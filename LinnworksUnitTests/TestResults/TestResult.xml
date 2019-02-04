@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TestRun id="bdbd87f0-7f24-475f-b0fa-d9d20a34af1a" name="Sarvesh@HP6440B 2019-02-05 00:41:03" runUser="HP6440B\Sarvesh" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <Times creation="2019-02-05T00:41:03.7044792+05:30" queuing="2019-02-05T00:41:03.7044793+05:30" start="2019-02-05T00:41:00.2243900+05:30" finish="2019-02-05T00:41:03.7457524+05:30" />
+  <TestSettings name="default" id="80a66f46-6897-4f3b-bfd8-b092a7763207">
+    <Deployment runDeploymentRoot="Sarvesh_HP6440B_2019-02-05_00_41_03" />
+  </TestSettings>
+  <Results>
+    <UnitTestResult executionId="202530a0-47f6-4b85-b923-88134d764257" testId="2d74536e-797f-2fe1-33c9-956553d6f91a" testName="UnitTest005_Test_CategoryWithStock_Class_And_Structure" computerName="HP6440B" duration="00:00:00.0170000" startTime="2019-02-05T00:41:03.0000000+05:30" endTime="2019-02-05T00:41:03.0000000+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="202530a0-47f6-4b85-b923-88134d764257">
+      <Output>
+        <StdOut>***** STARTING TEST STEP:- UnitTest005_Test_CategoryWithStock_Class_And_Structure *****</StdOut>
+        <ErrorInfo>
+          <Message>UnitTest005_Test_CategoryWithStock_Class_And_Structure : is passed</Message>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="1ee40880-5efc-4e7b-93f6-4320a953bbb7" testId="a0b76b02-5159-e079-e650-07a970f78578" testName="UnitTest003_Test_Product_Class_And_Structure" computerName="HP6440B" duration="00:00:00.0040000" startTime="2019-02-05T00:41:03.0000000+05:30" endTime="2019-02-05T00:41:03.0000000+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="1ee40880-5efc-4e7b-93f6-4320a953bbb7">
+      <Output>
+        <StdOut>***** STARTING TEST STEP:- UnitTest003_Test_Product_Class_And_Structure *****</StdOut>
+        <ErrorInfo>
+          <Message>UnitTest003_Test_Product_Class_And_Structure : is passed</Message>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="8cb72e02-9602-40f2-b77d-13ed97071fe2" testId="8ecefe2c-3f03-cf36-56eb-a752a54776f5" testName="UnitTest001_Demo_Test" computerName="HP6440B" duration="00:00:00.0060000" startTime="2019-02-05T00:41:03.0000000+05:30" endTime="2019-02-05T00:41:03.0000000+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="8cb72e02-9602-40f2-b77d-13ed97071fe2">
+      <Output>
+        <StdOut>***** STARTING TEST STEP:- UnitTest001_Demo_Test *****</StdOut>
+        <ErrorInfo>
+          <Message>UnitTest001_Demo_Test : is passed</Message>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="dac4d8dc-ead7-4c77-ad2b-729ad41c1b39" testId="aac6eb54-3bd7-e273-7e8b-7aadbe033d11" testName="Test000_Demo_TestAsync" computerName="HP6440B" duration="00:00:00.4160000" startTime="2019-02-05T00:41:02.0000000+05:30" endTime="2019-02-05T00:41:03.0000000+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="dac4d8dc-ead7-4c77-ad2b-729ad41c1b39">
+      <Output>
+        <StdOut>***** STARTING TEST STEP:- Test000_Demo_TestAsync *****&#xD;
+Microsoft.AspNetCore.Mvc.BadRequestObjectResult</StdOut>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="4e152b66-4b1b-481b-a247-40bb0764fe22" testId="31b51523-a5d0-5ae7-e84b-01a8cf660e26" testName="UnitTest004_Test_Token_Class_And_Structure" computerName="HP6440B" duration="00:00:00.0060000" startTime="2019-02-05T00:41:03.0000000+05:30" endTime="2019-02-05T00:41:03.0000000+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="4e152b66-4b1b-481b-a247-40bb0764fe22">
+      <Output>
+        <StdOut>***** STARTING TEST STEP:- UnitTest004_Test_Token_Class_And_Structure *****</StdOut>
+        <ErrorInfo>
+          <Message>UnitTest004_Test_Token_Class_And_Structure : is passed</Message>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="969f2ae6-690c-4975-8b9f-59612ae9f536" testId="91e7a16d-2113-2618-3404-835303350045" testName="UnitTest002_Test_Category_Class_And_Structure" computerName="HP6440B" duration="00:00:00.0860000" startTime="2019-02-05T00:41:03.0000000+05:30" endTime="2019-02-05T00:41:03.0000000+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="969f2ae6-690c-4975-8b9f-59612ae9f536">
+      <Output>
+        <StdOut>***** STARTING TEST STEP:- UnitTest002_Test_Category_Class_And_Structure *****</StdOut>
+        <ErrorInfo>
+          <Message>UnitTest002_Test_Category_Class_And_Structure : is passed</Message>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+  </Results>
+  <TestDefinitions>
+    <UnitTest name="UnitTest002_Test_Category_Class_And_Structure" storage="c:\users\user\desktop\aut\linnworkstargetapplication\linnworksunittests\bin\debug\netcoreapp2.1\linnworksunittests.dll" id="91e7a16d-2113-2618-3404-835303350045">
+      <Execution id="969f2ae6-690c-4975-8b9f-59612ae9f536" />
+      <TestMethod codeBase="C:\Users\User\Desktop\AUT\LinnworksTargetApplication\LinnworksUnitTests\bin\Debug\netcoreapp2.1\LinnworksUnitTests.dll" adapterTypeName="executor://nunit3testexecutor/" className="UnitTest.TestCategoryClass" name="UnitTest002_Test_Category_Class_And_Structure" />
+    </UnitTest>
+    <UnitTest name="Test000_Demo_TestAsync" storage="c:\users\user\desktop\aut\linnworkstargetapplication\linnworksunittests\bin\debug\netcoreapp2.1\linnworksunittests.dll" id="aac6eb54-3bd7-e273-7e8b-7aadbe033d11">
+      <Execution id="dac4d8dc-ead7-4c77-ad2b-729ad41c1b39" />
+      <TestMethod codeBase="C:\Users\User\Desktop\AUT\LinnworksTargetApplication\LinnworksUnitTests\bin\Debug\netcoreapp2.1\LinnworksUnitTests.dll" adapterTypeName="executor://nunit3testexecutor/" className="DatabaseIntegrationTests.TestController" name="Test000_Demo_TestAsync" />
+    </UnitTest>
+    <UnitTest name="UnitTest004_Test_Token_Class_And_Structure" storage="c:\users\user\desktop\aut\linnworkstargetapplication\linnworksunittests\bin\debug\netcoreapp2.1\linnworksunittests.dll" id="31b51523-a5d0-5ae7-e84b-01a8cf660e26">
+      <Execution id="4e152b66-4b1b-481b-a247-40bb0764fe22" />
+      <TestMethod codeBase="C:\Users\User\Desktop\AUT\LinnworksTargetApplication\LinnworksUnitTests\bin\Debug\netcoreapp2.1\LinnworksUnitTests.dll" adapterTypeName="executor://nunit3testexecutor/" className="UnitTest.TestTokenClass" name="UnitTest004_Test_Token_Class_And_Structure" />
+    </UnitTest>
+    <UnitTest name="UnitTest001_Demo_Test" storage="c:\users\user\desktop\aut\linnworkstargetapplication\linnworksunittests\bin\debug\netcoreapp2.1\linnworksunittests.dll" id="8ecefe2c-3f03-cf36-56eb-a752a54776f5">
+      <Execution id="8cb72e02-9602-40f2-b77d-13ed97071fe2" />
+      <TestMethod codeBase="C:\Users\User\Desktop\AUT\LinnworksTargetApplication\LinnworksUnitTests\bin\Debug\netcoreapp2.1\LinnworksUnitTests.dll" adapterTypeName="executor://nunit3testexecutor/" className="UnitTest.TestTutorialClass" name="UnitTest001_Demo_Test" />
+    </UnitTest>
+    <UnitTest name="UnitTest003_Test_Product_Class_And_Structure" storage="c:\users\user\desktop\aut\linnworkstargetapplication\linnworksunittests\bin\debug\netcoreapp2.1\linnworksunittests.dll" id="a0b76b02-5159-e079-e650-07a970f78578">
+      <Execution id="1ee40880-5efc-4e7b-93f6-4320a953bbb7" />
+      <TestMethod codeBase="C:\Users\User\Desktop\AUT\LinnworksTargetApplication\LinnworksUnitTests\bin\Debug\netcoreapp2.1\LinnworksUnitTests.dll" adapterTypeName="executor://nunit3testexecutor/" className="UnitTest.TestProductClass" name="UnitTest003_Test_Product_Class_And_Structure" />
+    </UnitTest>
+    <UnitTest name="UnitTest005_Test_CategoryWithStock_Class_And_Structure" storage="c:\users\user\desktop\aut\linnworkstargetapplication\linnworksunittests\bin\debug\netcoreapp2.1\linnworksunittests.dll" id="2d74536e-797f-2fe1-33c9-956553d6f91a">
+      <Execution id="202530a0-47f6-4b85-b923-88134d764257" />
+      <TestMethod codeBase="C:\Users\User\Desktop\AUT\LinnworksTargetApplication\LinnworksUnitTests\bin\Debug\netcoreapp2.1\LinnworksUnitTests.dll" adapterTypeName="executor://nunit3testexecutor/" className="UnitTest.TestCategotyWithStockClass" name="UnitTest005_Test_CategoryWithStock_Class_And_Structure" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestEntries>
+    <TestEntry testId="2d74536e-797f-2fe1-33c9-956553d6f91a" executionId="202530a0-47f6-4b85-b923-88134d764257" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="a0b76b02-5159-e079-e650-07a970f78578" executionId="1ee40880-5efc-4e7b-93f6-4320a953bbb7" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="8ecefe2c-3f03-cf36-56eb-a752a54776f5" executionId="8cb72e02-9602-40f2-b77d-13ed97071fe2" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="aac6eb54-3bd7-e273-7e8b-7aadbe033d11" executionId="dac4d8dc-ead7-4c77-ad2b-729ad41c1b39" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="31b51523-a5d0-5ae7-e84b-01a8cf660e26" executionId="4e152b66-4b1b-481b-a247-40bb0764fe22" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="91e7a16d-2113-2618-3404-835303350045" executionId="969f2ae6-690c-4975-8b9f-59612ae9f536" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <ResultSummary outcome="Completed">
+    <Counters total="6" executed="6" passed="6" failed="0" error="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+    <Output>
+      <StdOut>NUnit Adapter 3.12.0.0: Test execution startedRunning all tests in C:\Users\User\Desktop\AUT\LinnworksTargetApplication\LinnworksUnitTests\bin\Debug\netcoreapp2.1\LinnworksUnitTests.dll   NUnit3TestExecutor converted 6 of 6 NUnit test casesNUnit Adapter 3.12.0.0: Test execution complete</StdOut>
+    </Output>
+  </ResultSummary>
+</TestRun>
