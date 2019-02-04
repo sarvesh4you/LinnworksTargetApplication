@@ -1,5 +1,6 @@
 /.git/
 /.vs/
 LinnworksUnitTests/TestResults/**
+LinnworksTest/ClientApp/karma-results/PhantomJS_2.1.1_(Windows_8.0.0)/**
 
 
