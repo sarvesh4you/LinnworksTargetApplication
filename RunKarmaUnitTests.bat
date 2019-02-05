@@ -1,2 +1,5 @@
 CD /d "%CD%\LinnworksTest\ClientApp"
-START karma start
+karma start
+
+SLEEP 180
+PAUSE
