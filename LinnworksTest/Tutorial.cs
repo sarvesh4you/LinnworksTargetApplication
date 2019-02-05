@@ -11,7 +11,7 @@ namespace LinnworksTest
 
         public Tutorial()
         {
-            Name = "Sarvesh - ASP.Net";
+            Name = "Sarvesh - ASPNet";
         }
     }
 }
